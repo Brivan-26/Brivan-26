@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
