@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **ma.rezazi@esi.dz**
+- 📫 How to reach me **km_rezazi@esi.dz**
 
 - ⚡ Fun fact **I play games and I watch animes.**
 
