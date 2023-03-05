@@ -10,9 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdessamedportfolio.netlify.app/)**
-
-- 📫 How to reach me **ma.rezazi@esi-sba.dz**
+- 📫 How to reach me **ma.rezazi@esi.dz**
 
 - ⚡ Fun fact **I play games and I watch animes.**
 
@@ -26,6 +24,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
